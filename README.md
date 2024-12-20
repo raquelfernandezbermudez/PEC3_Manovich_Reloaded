@@ -7,10 +7,9 @@
 
 ## Introducción
 
-La hibridación, según Manovich, es la fusión de medios, técnicas y formatos que dan lugar a nuevas experiencias culturales que se da en la era del software y puede darse en muchos ámbitos, desde la visualización médica hasta la gestión de contenidos digitales.
+La hibridación, según Lev Manovich, es la fusión de medios, técnicas y formatos que dan lugar a nuevas experiencias culturales. Este proceso, propio de la era del software, se manifiesta en múltiples ámbitos, desde la visualización médica hasta la gestión de contenidos digitales. La hibridación permite la creación de nuevas formas de interacción, aprovechando los avances tecnológicos para enriquecer la experiencia del usuario.
 
-A continuación voy a desarrollar dos casos, ecografía 5D y la aplicación web Goodreads, ambos son claros ejemplos de como la hibridación redefine la interacción de los usuarios con respecto a la tecnología.
-
+En este trabajo se desarrollarán los siguientes casos: la ecografía 5D y la aplicación web Goodreads. Ambos son un claro ejemplo de cómo la hibridación cambia como los usuarios se relacionan con la tecnología. En estos se ve reflejada como la tecnología tiene la capacidad de combinar e integrar diferentes medios y funciones en nuevas experiencias que cambian la forma en que se consumen.
 
 ## Caso 1: Ecografías 5D
 ![image](https://ecolady.es/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-04-at-10.45.41-PM.jpeg)
