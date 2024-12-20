@@ -50,8 +50,8 @@ Por otro lado, Bandersnatch combina la **narrativa cinematográfica** con la jug
 Ambos casos ilustran cómo la **hibridación moderna** puede crear nuevas experiencias y transformar la manera en que interactuamos con los **medios y la tecnología**. IKEA Place y andersnatch no solo ejemplifican la teoría de Manovich, sino que también destacan el potencial de la interactividad y la personalización en la creación de experiencias únicas y significativas para los usuarios.
 
 ## Referencias y bibliografía
-Manovich, Lev. (2013). El software toma el mando. Editorial UOC.
-Manovich, Lev. (2013). ¿Qué son los nuevos medios?. Editorial UOC.
-Manovich, L. (2013). El software toma el mando. Editorial UOC.
-Cisco. Cisco Packet Tracer. https://www.netacad.com/es/cisco-packet-tracer
-Google Nest. Nest Hello Video Doorbell. https://store.google.com/product/nest_hello_doorbell
+- Manovich, Lev. (2013). *El software toma el mando*. Editorial UOC.  
+- Manovich, Lev. (2013). *¿Qué son los nuevos medios?*. Editorial UOC.  
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
+- Cisco. *Cisco Packet Tracer*. [Disponible en línea](https://www.netacad.com/es/cisco-packet-tracer).  
+- Google Nest. *Nest Hello Video Doorbell*. [Disponible en línea](https://store.google.com/product/nest_hello_doorbell).  
