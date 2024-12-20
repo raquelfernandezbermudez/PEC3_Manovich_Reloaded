@@ -20,9 +20,12 @@ Este es un claro ejemplo de como la hibridación tecnológica ha impactado en la
 
 La ecografía 5D es un avance importante en el campo en la visualización de fetos durante el embarazo, aparte de mejorar la calidad de las imágenes incorpora nuevas funcionalidades que permiten a los trabajadores del sector salud a realizar diagnósticos mas precisos.
 
-Aspectos clave de la hibridación:
+**Aspectos clave de la hibridación en la ecografía 5D:**
+1. **Integración de imágenes estáticas y dinámicas**: Mas allá de imágenes 3D también es capaz de mostrar imágenes en movimiento, que permite una visualización más completa de las estructuras internas del cuerpo.
+   
+2. **Uso de algoritmos avanzados para la mejora de la imagen**: Permiten una visualización más precisa y detallada del feto y sus órganos.
 
-
+3. **Interactividad en tiempo real**: Los médicos pueden interactuar con las imágenes en tiempo real,lo que mejora el diagnóstico y proporciona una mejor experiencia a los padres.
 
 ### Caso 2, Goodreads:
 
@@ -47,6 +50,11 @@ Por otro lado, Bandersnatch combina la **narrativa cinematográfica** con la jug
 Ambos casos ilustran cómo la **hibridación moderna** puede crear nuevas experiencias y transformar la manera en que interactuamos con los **medios y la tecnología**. IKEA Place y andersnatch no solo ejemplifican la teoría de Manovich, sino que también destacan el potencial de la interactividad y la personalización en la creación de experiencias únicas y significativas para los usuarios.
 
 ## Referencias y bibliografía
-- Manovich, Lev. (2013). *El software toma el mando*. Editorial UOC.  
-- Manovich, Lev. (2013). *¿Qué son los nuevos medios?*. Editorial UOC.  
-- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
+-**Lev Manovich: La hibridación y el software**  
+   *Libro*: *El software toma el mando* de Lev Manovich.
+**Ecografía 5D - Aplicaciones y Beneficios**  
+   *Web*: [www.ecografia5d.com](http://www.ecografia5d.com)
+-**Medicina y Tecnología: La evolución de la ecografía**  
+   *Artículo*: [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)  
+-**Innovaciones tecnológicas en ultrasonido: El futuro de la ecografía 5D**  
+   *Artículo*: [https://www.sonoscape.com](https://www.sonoscape.com)  
