@@ -7,9 +7,9 @@
 
 ## Introducción
 
-En El software toma el mando (2013), **Lev Manovich** explica que **la hibridación de medios** surge al fusionar tecnologías, formatos y prácticas culturales, dando origen a nuevos medios con características únicas. Este proceso se diferencia de la **multimedia**, que combina elementos sin integrarlos plenamente, y de la **remediación**, que adapta los medios tradicionales al entorno digital, ya que implica una transformación profunda de los elementos originales.
+La hibridación, según Manovich, es la fusión de medios, técnicas y formatos que dan lugar a nuevas experiencias culturales que se da en la era del software y puede darse en muchos ámbitos, desde la visualización médica hasta la gestión de contenidos digitales.
 
-Los siguientes ensayos de **Ikea Place** y el episodio de Black Mirror **Bandersnatch** ilustran esta dinámica al integrar y reorganizar elementos visuales, sonoros y sociales, creando experiencias digitales innovadoras y nuevas formas de interacción.
+A continuación voy a desarrollar dos casos, ecografía 5D y la aplicación web Goodreads, ambos son claros ejemplos de como la hibridación redefine la interacción de los usuarios con respecto a la tecnología.
 
 
 ## Caso 1: Ecografías 5D
