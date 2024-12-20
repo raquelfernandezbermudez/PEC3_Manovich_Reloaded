@@ -18,6 +18,10 @@ Creo que todos hemos escuchado a lo largo de los últimos años el término de e
 
 Este es un claro ejemplo de como la hibridación tecnológica ha impactado en la medicina, ha evolucionado desde las primeras versiones que teníamos en blanco y negro, hasta las imágenes tridimensionales (3D) y en tiempo real (4D), la ecografía 5D va un paso mas allá al integrar técnicas digitales avanzadas para obtener imágenes muchísimo mas detalladas y realistas, mejorando la experiencia tanto de los padres (que esta es evidente) y la de los profesionales de la salud que tienen que trabajar con ellas. Este proceso es la fusión de medios de la que habla Lev Manovich en su teoría de hibridación donde se combinan diferentes tecnologías y disciplinas para crear un producto nuevo.
 
+La ecografía 5D es un avance importante en el campo en la visualización de fetos durante el embarazo, aparte de mejorar la calidad de las imágenes incorpora nuevas funcionalidades que permiten a los trabajadores del sector salud a realizar diagnósticos mas precisos.
+
+Aspectos clave de la hibridación:
+
 
 
 ### Caso 2, Goodreads:
