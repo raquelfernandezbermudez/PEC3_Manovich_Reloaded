@@ -2,10 +2,10 @@
 
 # PEC3: La hibridación de nuevos medios según la perspectiva de Manovich.
 
-### Asignatura de Cultura digital - UOC
+### Cultura digital
 
-Autora: Raquel Fernández Bermúdez.
-Fecha: 20/12/2024.
+### Autora: Raquel Fernández Bermúdez.
+### Fecha: 20/12/2024.
 
 ## Introducción
 
