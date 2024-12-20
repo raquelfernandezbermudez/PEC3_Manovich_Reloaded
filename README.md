@@ -1,11 +1,9 @@
-# PEC3_Manovich_Reloaded
-
 # PEC3: La hibridación de nuevos medios según la perspectiva de Manovich.
 
 ### Cultura digital
 
-### Autora: Raquel Fernández Bermúdez.
-### Fecha: 20/12/2024.
+### Autora: Raquel Fernández Bermúdez
+### Fecha: 20/12/2024
 
 ## Introducción
 
