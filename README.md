@@ -16,6 +16,8 @@ En este trabajo se desarrollarán los siguientes casos: la ecografía 5D y la ap
 
 Creo que todos hemos escuchado a lo largo de los últimos años el término de ecografía 5d, ¿pero qué es exactamente?, es una evolución de las diferentes técnicas de imagen que se han venido realizando para poder ver al feto durante el embarazo, combina la tecnología 3D con la incorporación de movimiento en tiempo de real a través del 4D y optimiza esta imagen de manera automática con el 5D, a través de esta combinación de tecnologías se obtiene una experiencia mas inmensirva y por tanto mucho mas emocional para los padres. El 5D proporcional una representación del feto mucho mas nítida y realista que permite ver el feto con mucho mayor detalle ,algo inmimaginable hasta hace unos años. Este tipo de ecografías aparte del impacto emocional para los progenitores, trae consigo también una mejora en el diagnóstico médico porque facilita una detección de anomalías y problemas médicos de manera mucho mas temprana y acertada.
 
+Este es un claro ejemplo de como la hibridación tecnológica ha impactado en la medicina, ha evolucionado desde las primeras versiones que teníamos en blanco y negro, hasta las imágenes tridimensionales (3D) y en tiempo real (4D), la ecografía 5D va un paso mas allá al integrar técnicas digitales avanzadas para obtener imágenes muchísimo mas detalladas y realistas, mejorando la experiencia tanto de los padres (que esta es evidente) y la de los profesionales de la salud que tienen que trabajar con ellas. Este proceso es la fusión de medios de la que habla Lev Manovich en su teoría de hibridación donde se combinan diferentes tecnologías y disciplinas para crear un producto nuevo.
+
 
 
 ### Caso 2, Goodreads:
