@@ -14,15 +14,9 @@ En este trabajo se desarrollarán los siguientes casos: la ecografía 5D y la ap
 ## Caso 1: Ecografías 5D
 ![image](https://ecolady.es/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-04-at-10.45.41-PM.jpeg)
 
-**IKEA Place** es una aplicación de **realidad aumentada (AR)** lanzada por IKEA que permite a los usuarios visualizar cómo quedarían los muebles en sus casas antes de comprarlos. Esta herramienta representa un claro ejemplo de **hibridación moderna**, combinando elementos del mundo físico y digital para mejorar la experiencia del usuario.
+Creo que todos hemos escuchado a lo largo de los últimos años el término de ecografía 5d, ¿pero qué es exactamente?, es una evolución de las diferentes técnicas de imagen que se han venido realizando para poder ver al feto durante el embarazo, combina la tecnología 3D con la incorporación de movimiento en tiempo de real a través del 4D y optimiza esta imagen de manera automática con el 5D, a través de esta combinación de tecnologías se obtiene una experiencia mas inmensirva y por tanto mucho mas emocional para los padres. El 5D proporcional una representación del feto mucho mas nítida y realista que permite ver el feto con mucho mayor detalle ,algo inmimaginable hasta hace unos años. Este tipo de ecografías aparte del impacto emocional para los progenitores, trae consigo también una mejora en el diagnóstico médico porque facilita una detección de anomalías y problemas médicos de manera mucho mas temprana y acertada.
 
-**Lev Manovich**, en su teoría de los nuevos medios, destaca la importancia de la integración de diferentes formas de medios y tecnologías para crear nuevas experiencias. IKEA Place utiliza la **tecnología AR (realidad aumentada)** para superponer modelos 3D de muebles en el entorno real del usuario, permitiendo una visualización precisa y en tiempo real. Esta aplicación no solo facilita la toma de decisiones de compra, sino que también transforma la manera en que interactuamos con los productos y el espacio.
 
-La precisión de la **tecnología AR** en IKEA Place es muy buena, ya que los productos se escalan automáticamente según las dimensiones de la habitación con una precisión del 98%. Además, los usuarios pueden capturar y compartir imágenes o videos en su espacio para que su familia o amigos puedan dar feedback a cómo quedaría su posible compra en el hogar.
-
-La **hibridación moderna**, según Manovich, implica la combinación de diferentes formas de medios para crear nuevas experiencias. En el caso de IKEA Place, **la AR** se combina con la funcionalidad de comercio electrónico, permitiendo a los usuarios no solo visualizar los muebles en su espacio, sino también comprarlos directamente desde la aplicación. Esta integración de tecnologías transforma la **experiencia de compra**, haciéndola más interactiva y personalizada.
-
-Además, IKEA Place utiliza **algoritmos avanzados** para reconocer el entorno del usuario y ajustar los modelos 3D. Esto no solo mejora la precisión de la visualización, sino que también permite a los usuarios experimentar con diferentes configuraciones de muebles y estilos de decoración. La capacidad de ver cómo quedarían los muebles en su espacio antes de comprarlos reduce el número de devoluciones y genera unas expectativas finales al usuario que pueden llegar a cumplirse con bastante acierto, lo que beneficia tanto a los consumidores como a la empresa.
 
 ### Caso 2, Goodreads:
 
@@ -50,5 +44,3 @@ Ambos casos ilustran cómo la **hibridación moderna** puede crear nuevas experi
 - Manovich, Lev. (2013). *El software toma el mando*. Editorial UOC.  
 - Manovich, Lev. (2013). *¿Qué son los nuevos medios?*. Editorial UOC.  
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
-- Cisco. *Cisco Packet Tracer*. [Disponible en línea](https://www.netacad.com/es/cisco-packet-tracer).  
-- Google Nest. *Nest Hello Video Doorbell*. [Disponible en línea](https://store.google.com/product/nest_hello_doorbell).  
