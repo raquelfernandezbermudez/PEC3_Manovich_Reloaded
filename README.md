@@ -17,37 +17,34 @@ En este trabajo se desarrollarán los siguientes casos: la **ecografía 5D** y l
 
 La ecografía 5D representa una evolución importante en la visualización del feto durante el embarazo. Combina la tecnología 3D, el movimiento en tiempo real (4D) y la optimización en el momento (5D) para ofrecer imágenes mucho más realistas. Este no solo genera una experiencia emocional mucho más intensa para los padres, sino que también aporta mejoras en el diagnóstico, permitiendo detectar con mayor precisión y antelación anomalías y problemas de salud.  
 
-Desde la perspectiva de la **hibridación tecnológica** planteada por Lev Manovich, la ecografía 5D se presenta como una fusión de tecnologías digitales y métodos médicos. Se integran técnicas de visualización, procesamiento de imágenes y algoritmos de optimización, lo que resulta en una herramienta que transforma tanto la experiencia del usuario final (los padres) como la práctica profesional del sector médico.  
+Desde la perspectiva de la **hibridación tecnológica** definida por Lev Manovich, la ecografía 5D es una fusión de tecnologías digitales y métodos médicos. Se combinan técnicas de visualización, procesamiento de imágenes y algoritmos de optimización, lo que da como resultado una herramienta que transforma tanto la experiencia de los usuarios como la de los trabajadores de salud.  
 
 ## **Evolución tecnológica**  
 
 La ecografía ha pasado por distintas fases de desarrollo:  
-- **Ecografía 2D**: Imágenes en blanco y negro con representaciones planas del feto.  
-- **Ecografía 3D**: Imágenes tridimensionales estáticas que permiten una mayor percepción de la forma del feto.  
-- **Ecografía 4D**: Introducción del movimiento en tiempo real, mostrando al feto en acción dentro del útero.  
-- **Ecografía 5D**: Incorpora la automatización y el perfeccionamiento de la imagen mediante algoritmos de mejora, lo que permite obtener imágenes mucho más precisas, con mayor realismo y detalle.  
+- **Ecografía 2D**: Imágenes en blanco y negro.  
+- **Ecografía 3D**: Imágenes tridimensionales estáticas.  
+- **Ecografía 4D**: Movimiento en tiempo real, mostrando al feto en movimiento dentro del útero.  
+- **Ecografía 5D**: Incorpora la automatización y el perfeccionamiento de la imagen lo que permite obtener imágenes de mucha mayor calidad.  
 
-Este proceso es un ejemplo claro de hibridación tecnológica, ya que la ecografía 5D no surge de una tecnología aislada, sino de la convergencia de la visualización 3D, la captura de movimiento 4D y la optimización automatizada por software (5D).  
+Este proceso es un ejemplo claro de hibridación tecnológica, ya que la ecografía 5D no surge como algo aislado, sino de la combinación de las tecnologías previas.  
 
 ## **Impacto médico y diagnóstico**  
 
-La introducción de la ecografía 5D ha supuesto una revolución en la práctica médica. Los beneficios más significativos son:  
-- **Diagnóstico más preciso y temprano**: La mejora en la nitidez de la imagen facilita la identificación de anomalías fetales de forma temprana, lo que permite una intervención médica oportuna.  
-- **Interactividad en tiempo real**: Los profesionales de la salud pueden manipular e interactuar con la imagen para visualizar distintas partes del feto, lo que favorece la detección de malformaciones o irregularidades.  
-- **Uso de algoritmos avanzados**: La optimización de la imagen a través de algoritmos permite obtener detalles que antes no se podían observar, mejorando la precisión diagnóstica.  
+La introducción de la ecografía 5D ha supuesto una revolución, los beneficios más importantes son:  
+- **Diagnóstico más preciso y temprano**: La mejora de la calidad de la imagen facilita la identificación de anomalías de forma temprana.  
+- **Interactividad en tiempo real**: Los profesionales de la salud pueden manipular e interactuar con la imagen en tiempo real, lo que ayuda a la detección de malformaciones o irregularidades.  
 
-Este impacto no solo se refleja en la **práctica clínica**, sino también en la **educación médica**, ya que los estudiantes de medicina tienen la oportunidad de observar imágenes detalladas y simulaciones en 3D/5D, contribuyendo a una mejor comprensión de la anatomía fetal.  
+Esto no solo se refleja en la **clínica**, sino también en los **futuros profesionales de la saludo**, ya que estos tienen la oportunidad de observar imágenes de mucho mayor calidad que ayudan a un mejor entendimiento de la anatomía fetal y de sus enfermedades y anomalías.  
 
 ## **Impacto cultural y emocional**  
 
-El impacto de la ecografía 5D va más allá del ámbito médico, ya que transforma la **experiencia de los padres** y su relación con el embarazo.  
+Esta tecnología transforma la **experiencia de los padres**, se producen los siguientes cambios:  
+- **Mejora de la experiencia visual**: Los padres ya no se conforman con las imágenes tradicionales que te ofrecen en la seguridad social y exigen una experiencia visual de mayor calidad.  
+- **Experiencia emocional única**: Los padres experimentan una experiencia emocional más profunda, pueden ver sus rasgos faciales de una manera mucho mas clara antes de su nacimiento.  
+- **Comercialización del servicio**: La industria de la ecografía 5D ha generado una oportunidad de negocio para clínicas privadas que ofrecen este servicio.  
 
-### **Transformaciones culturales clave**  
-- **Democratización de la experiencia visual**: Los padres ya no se conforman con las imágenes tradicionales de la seguridad social y exigen una experiencia visual de mayor calidad.  
-- **Experiencia emocional única**: Los padres experimentan una conexión emocional más profunda con el futuro bebé, ya que pueden ver sus rasgos faciales de forma nítida antes del nacimiento.  
-- **Comercialización del servicio**: La industria de la ecografía 5D ha generado una oportunidad de negocio para clínicas privadas que ofrecen sesiones "emocionales" con imágenes en alta definición del feto.  
-
-Esta transformación cultural se alinea con el concepto de hibridación de Manovich, ya que el cruce de la **medicina con el entretenimiento** crea un nuevo producto híbrido: la ecografía emocional.  
+Esta transformación cultural se alinea con el concepto de hibridación, ya que el cruce de la **medicina con el entretenimiento** crea un nuevo producto híbrido: la ecografía emocional.  
 
 ## **Hibridación tecnológica en la ecografía 5D**  
 
