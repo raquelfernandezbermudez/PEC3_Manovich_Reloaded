@@ -15,7 +15,7 @@ En este trabajo se desarrollarán los siguientes casos: la **ecografía 5D** y l
 
 ![image](https://ecolady.es/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-04-at-10.45.41-PM.jpeg)  
 
-La ecografía 5D representa una evolución significativa en la visualización del feto durante el embarazo. Este avance combina la tridimensionalidad (3D), el movimiento en tiempo real (4D) y la optimización automática (5D) para ofrecer imágenes mucho más nítidas y realistas. Este desarrollo no solo genera una experiencia emocional más profunda para los padres, sino que también aporta mejoras en el diagnóstico médico, permitiendo detectar con mayor precisión anomalías y problemas de salud.  
+La ecografía 5D representa una evolución importante en la visualización del feto durante el embarazo. Combina la tecnología 3D, el movimiento en tiempo real (4D) y la optimización en el momento (5D) para ofrecer imágenes mucho más realistas. Este no solo genera una experiencia emocional mucho más intensa para los padres, sino que también aporta mejoras en el diagnóstico, permitiendo detectar con mayor precisión y antelación anomalías y problemas de salud.  
 
 Desde la perspectiva de la **hibridación tecnológica** planteada por Lev Manovich, la ecografía 5D se presenta como una fusión de tecnologías digitales y métodos médicos. Se integran técnicas de visualización, procesamiento de imágenes y algoritmos de optimización, lo que resulta en una herramienta que transforma tanto la experiencia del usuario final (los padres) como la práctica profesional del sector médico.  
 
