@@ -67,7 +67,6 @@ La ecografía 5D es un ejemplo destacado de **hibridación tecnológica** en la 
 
 ![image](https://scribemedia.com/wp-content/uploads/2020/02/How-To-Set-Up-Your-Goodreads-Author-Profile.jpg)  
 
----
 
 # **Referencias y bibliografía**  
 
